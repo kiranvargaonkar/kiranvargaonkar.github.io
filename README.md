@@ -4,9 +4,9 @@ Welcome to my corner of the internet. I’ve put this portfolio together to shar
 
 I’m interested in how we make decisions about shared natural resources, who benefits from them, and how communities can respond to environmental change. At the moment, I’m especially curious about:
 
-- **Sand and shared resources** — how sand is used and extracted, who has access to it, and how the benefits and costs are shared.
-- **Coastal ecosystems and biodiversity** — how coastlines and habitats change, and how we can better understand and protect them.
-- **Community knowledge and climate resilience** — how local experience and inclusive decisions can help communities prepare for and recover from climate-related risks.
+- **Sand and shared resources**  how sand is used and extracted, who has access to it, and how the benefits and costs are shared.
+- **Coastal ecosystems and biodiversity**  how coastlines and habitats change, and how we can better understand and protect them.
+- **Community knowledge and climate resilience**  how local experience and inclusive decisions can help communities prepare for and recover from climate-related risks.
 
 ## What you’ll find here
 
