@@ -1,4 +1,4 @@
-# Hi, I’m Kiran 👋
+# Hi, I’m Kiran ヾ(＾ ∇ ＾) 
 
 Welcome to my corner of the internet. I’ve put this portfolio together to share the work I’ve been part of, the things I’m curious about, and the questions I’d like to explore next.
 
