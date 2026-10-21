@@ -1,4 +1,6 @@
-# Hi again, ヾ(＾ ∇ ＾) and this is my Academic Portfolio 🌿
+# Hi again, ヾ(＾ ∇ ＾)
+
+This is my Academic Portfolio 🌿
 
 A personal portfolio documenting my work and interests across environmental research, climate adaptation, biodiversity, community resilience, data visualisation and photography.
 
@@ -13,7 +15,7 @@ A personal portfolio documenting my work and interests across environmental rese
 
 ### Built with
 
-This website is built using HTML, CSS and JavaScript (where applicable). I'm learning web development as I go and used AI to help write and refine parts of the code, while making the design and content decisions myself.
+This website is built using HTML and CSS. I'm learning web development as I go and used AI to help write and refine parts of the code, while making the design and content decisions myself.
 
 All photographs featured on the website are my own.
 
@@ -25,6 +27,12 @@ All photographs featured on the website are my own.
 - [Wildflowers of Konkan](https://wildflowersofkonkan.my.canva.site/)
 - [Read my writing on Substack](https://badaltahavaman.substack.com/)
 - [Email me](mailto:kiranvargaonkar@gmail.com)
+
+### Why the website
+
+While applying for PhD opportunities, I found it difficult to introduce myself through a CV alone.
+
+This website is my attempt to share the projects, places, photographs and questions that have shaped my interests, and to document the path I'm taking towards environmental research
 
 Thanks for stopping by. I hope you find something interesting here, and I’m always glad to hear from people who care about similar questions.
 
