@@ -1,4 +1,4 @@
-# Hi again, I’m Kiran ヾ(＾ ∇ ＾) and this is my Academic Portfolio 🌿
+# Hi again, ヾ(＾ ∇ ＾) and this is my Academic Portfolio 🌿
 
 A personal portfolio documenting my work and interests across environmental research, climate adaptation, biodiversity, community resilience, data visualisation and photography.
 
